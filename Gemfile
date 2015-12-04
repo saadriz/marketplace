@@ -11,17 +11,10 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem "paperclip", "~> 4.3"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of a1f68bb... images
-=======
->>>>>>> parent of a1f68bb... images
+
 
 gem 'sdoc', '~> 0.4.0', group: :doc
->>>>>>> parent of a1f68bb... images
+
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 

@@ -76,22 +76,11 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
   config.paperclip_defaults = {
   
   
 }
 
 
-=======
->>>>>>> parent of a1f68bb... images
-=======
->>>>>>> parent of a1f68bb... images
-=======
->>>>>>> parent of a1f68bb... images
-=======
->>>>>>> parent of a1f68bb... images
 end
