@@ -78,12 +78,15 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   config.paperclip_defaults = {
   
   
 }
 
 
+=======
+>>>>>>> parent of a1f68bb... images
 =======
 >>>>>>> parent of a1f68bb... images
 =======
