@@ -78,12 +78,7 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
   config.paperclip_defaults = {
   
-  :storage => :s3,
-  :s3_credentials => {
-    :bucket => ENV['marketplace82285'],
-    :access_key_id => ENV['AKIAJIROSPZFEOCOFDWA'],
-    :secret_access_key => ENV['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']
-  }
+  
 }
 
 

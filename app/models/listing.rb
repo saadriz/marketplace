@@ -3,9 +3,9 @@ class Listing < ActiveRecord::Base
     :storage => :s3,
     :s3_credentials => Rails.root.join("config/aws.yml")
 
-#    def s3_credentials
- #     {:bucket => "marketplace82285", :access_key_id => "AKIAJIROSPZFEOCOFDWA", :secret_access_key => "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"}
-#end
+ def s3_credentials
+     {:bucket => "marketplace82285", :access_key_id => "AKIAJIROSPZFEOCOFDWA", :secret_access_key => "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"}
+end
   
   validates_attachment_content_type :image, content_type: /\Aimage\/.*\Z/
 end
