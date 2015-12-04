@@ -15,9 +15,12 @@ gem "paperclip", "~> 4.3"
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+<<<<<<< HEAD
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+=======
+>>>>>>> parent of d09f3c5... Gems
 group :development, :test do
   gem 'byebug'
 end
