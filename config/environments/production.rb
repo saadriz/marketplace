@@ -79,12 +79,15 @@ Rails.application.configure do
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   config.paperclip_defaults = {
   
   
 }
 
 
+=======
+>>>>>>> parent of a1f68bb... images
 =======
 >>>>>>> parent of a1f68bb... images
 =======

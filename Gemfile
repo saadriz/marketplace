@@ -13,7 +13,10 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem "paperclip", "~> 4.3"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of a1f68bb... images
 =======
 >>>>>>> parent of a1f68bb... images
 
